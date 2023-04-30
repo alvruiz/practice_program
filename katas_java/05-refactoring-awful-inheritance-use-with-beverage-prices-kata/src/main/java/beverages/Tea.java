@@ -1,4 +1,4 @@
-package beverages;
+package src.main.java.beverages;
 
 public class Tea implements Beverage {
     @Override
